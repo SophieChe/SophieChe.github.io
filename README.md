@@ -8,11 +8,11 @@ Hi everyone!<br>
 * Testing (JUnit, Mockito)<br>
 ________________________________________
 **My projects:**<br>
-* project 1<br>
+* [calculator](https://github.com/SophieChe/calculation.git) <br>
 * project 2<br>
 Now I am working on a project to develop the server-side of an application for calculating premiums for travel insurance risks.<br>
 * You can see the project
-  [here](git@github.com:SofiyaChe/first-project.git)
+ 
 
 ________________________________________
 🛠️ **Languages and Tools :**
